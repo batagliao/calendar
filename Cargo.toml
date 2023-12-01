@@ -1,5 +1,6 @@
 [package]
 name = "calendar"
+edition = "2021"
 version = "0.1.0"
 authors = ["Lucas Bataglião <batagliao@gmail.com>"]
 description = "A command line calendar"
